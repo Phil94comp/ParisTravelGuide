@@ -13,7 +13,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "Home" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/attractions_screenshot.png?raw=true)
+![](paristravelguide/img/attractions_page_screenshot.png)
 
 ###### Screenshot of the "Attractions" section of the website
 ---
