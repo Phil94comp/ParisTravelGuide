@@ -33,7 +33,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "French Phrases for Travelers" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/other_useful_information_screenshot.png?raw=true)
+![](paristravelguide/img/other_useful_information_page_screenshot.png)
 
 ###### Screenshot of the "Other Useful Information" section of the website
 ---
