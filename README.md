@@ -23,7 +23,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "Trip Planning Sites" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/transportation_screenshot.png?raw=true)
+![](paristravelguide/img/transportation_page_screenshot.png)
 
 ###### Screenshot of the "Transportation" section of the website
 ---
