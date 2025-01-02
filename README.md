@@ -8,7 +8,7 @@ This is a multipage responsive website I created to help people traveling to Par
 
 The purpose of the website is to provide unique and practical advice and information for people traveling to Paris, France.
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/home_screenshot.png?raw=true)
+![](paristravelguide/img/home_page_screenshot.png)
 
 ###### Screenshot of the "Home" section of the website
 ---
