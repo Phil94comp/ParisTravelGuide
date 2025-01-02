@@ -8,37 +8,37 @@ This is a multipage responsive website I created to help people traveling to Par
 
 The purpose of the website is to provide unique and practical advice and information for people traveling to Paris, France.
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/home_screenshot.png?raw=true)
+![](paristravelguide/img/home_page_screenshot.png)
 
 ###### Screenshot of the "Home" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/attractions_screenshot.png?raw=true)
+![](paristravelguide/img/attractions_page_screenshot.png)
 
 ###### Screenshot of the "Attractions" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/trip_planning_sites_screenshot.png?raw=true)
+![](paristravelguide/img/trip_planning_sites_page_screenshot.png)
 
 ###### Screenshot of the "Trip Planning Sites" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/transportation_screenshot.png?raw=true)
+![](paristravelguide/img/transportation_page_screenshot.png)
 
 ###### Screenshot of the "Transportation" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/french_phrases_for_travelers_screenshot.png?raw=true)
+![](paristravelguide/img/french_phrases_for_travelers_page_screenshot.png)
 
 ###### Screenshot of the "French Phrases for Travelers" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/other_useful_information_screenshot.png?raw=true)
+![](paristravelguide/img/other_useful_information_page_screenshot.png)
 
 ###### Screenshot of the "Other Useful Information" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/about_me_screenshot.png?raw=true)
+![](paristravelguide/img/about_me_page_screenshot.png)
 
 ###### Screenshot of the "About Me" section of the website
 
