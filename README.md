@@ -18,7 +18,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "Attractions" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/trip_planning_sites_screenshot.png?raw=true)
+![](paristravelguide/img/trip_planning_sites_page_screenshot.png)
 
 ###### Screenshot of the "Trip Planning Sites" section of the website
 ---
