@@ -1,0 +1,16 @@
+{
+  "name": "paristravelguidewebsite_selenium",
+  "version": "1.0.0",
+  "description": "This is a multipage responsive website I created to help people traveling to Paris, France. I created the website for a school project in my HTML class. The goals of this project are to learn:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^10.2.0",
+    "selenium-webdriver": "^4.9.2"
+  }
+}
