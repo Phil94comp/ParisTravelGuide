@@ -28,7 +28,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "Transportation" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/french_phrases_for_travelers_screenshot.png?raw=true)
+![](paristravelguide/img/french_phrases_for_travelers_page_screenshot.png)
 
 ###### Screenshot of the "French Phrases for Travelers" section of the website
 ---
