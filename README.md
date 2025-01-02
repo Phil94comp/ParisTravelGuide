@@ -38,7 +38,7 @@ The purpose of the website is to provide unique and practical advice and informa
 ###### Screenshot of the "Other Useful Information" section of the website
 ---
 
-![](https://github.com/Phil94comp/ParisTravelGuideWebsite/blob/main/paristravelguide/img/about_me_screenshot.png?raw=true)
+![](paristravelguide/img/about_me_page_screenshot.png)
 
 ###### Screenshot of the "About Me" section of the website
 
