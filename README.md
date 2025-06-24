@@ -51,6 +51,8 @@ The purpose of the website is to provide unique and practical advice and informa
 * HTML5
 * CSS3
 * Javascript
+* Selenium
+* Mocha
 
 ## Features
 
@@ -59,3 +61,4 @@ The purpose of the website is to provide unique and practical advice and informa
 * Menus
 * Images with captions
 * Color themes using the colors from the French Flag
+* Search engine optimization
